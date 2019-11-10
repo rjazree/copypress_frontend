@@ -1,0 +1,232 @@
+.header{
+    margin:20px;
+    font-size:20px;
+    overflow:hidden;
+    color:#8f4970;
+    margin-left:20px;
+}
+
+.header a{
+    padding:10px;
+}
+
+.header a:hover{
+    font-size:25px;
+    padding:10px;
+}
+
+.background_wrapper{
+    position:relative;
+    text-align: center;
+    color: white;
+  
+}
+
+.background{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.btn{
+    color:black;
+    background:yellow;
+    border-radius:30px;
+    height:50px;
+    width:140px;
+    font-size:20px;
+    font-family:bold;
+}
+.btn:hover{
+    background:#47d6e8;
+    color:white;
+}
+
+.img{
+    width:200px;
+    
+}
+.img:hover{
+    width:220px;
+    
+}
+
+.brands_wrapper{
+    height:150px;
+    background:#eeeef0;
+    padding:30px;
+}
+.services{
+    width:1050px;
+    height:450px;
+    
+    padding:25px;
+    margin-left:170px;
+}
+.services_left{
+    float:left;
+    width:600px;
+}
+.services_right{
+    float:right;
+    width:400px;
+    padding-top:50px;
+}
+
+.discover{
+    height:40px;
+    width:150px;
+    border-radius:30px;
+    background:#e947a5;
+    color:black;
+    font-size:15px;
+}
+
+.discover:hover{
+    height:50px;
+    width:160px;
+    border-radius:30px;
+    background:black;
+    color:white;
+    font-size:20px;
+}
+
+.video_wrapper{
+    position:relative;
+    text-align: center;
+    color: white;
+  
+}
+
+.video{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.btn_video{
+    color:black;
+    background:yellow;
+    border-radius:100%;
+    height:140px;
+    width:140px;
+    font-size:20px;
+    font-family:bold;
+}
+.btn_video:hover{
+    background:#47d6e8;
+    color:white;
+}
+
+
+
+.copy{
+    width:1050px;
+    height:450px;
+    background:#04dbf0;
+    padding:25px;
+    margin-left:170px;
+}
+.copy_left{
+    float:left;
+    width:600px;
+    background:#04dbf0;
+}
+
+
+.copy_right{
+    float:right;
+    width:400px;
+    height:400px;
+    padding-top:50px;
+    background:#f4f6f9;
+
+}
+
+.more{
+    height:40px;
+    width:150px;
+    border-radius:30px;
+    background:#04ddf0;
+    color:black;
+    font-size:15px;
+}
+
+.discover:hover{
+    height:50px;
+    width:160px;
+    border-radius:30px;
+    background:black;
+    color:white;
+    font-size:20px;
+}
+
+.team{
+    width:1050px;
+    height:450px;
+    
+    padding:25px;
+    margin-left:170px;
+}
+.team_left{
+    float:left;
+    width:600px;
+}
+.team_right{
+    float:right;
+    width:400px;
+    padding-top:50px;
+}
+
+
+.update_wrapper{
+    position:relative;
+    text-align: center;
+    color: white;
+  
+}
+
+.update{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.agent_wrapper{
+    position:relative;
+    text-align: center;
+    padding:20px;
+    height:700px;
+    background:#f5f6fa;
+
+}
+
+
+.testimonial_wrapper{
+    position:relative;
+    text-align: center;
+    padding:30px;
+    
+    width:1000px;
+  
+}
+
+.testimonial{
+  position: absolute;
+  float:left;
+  height:600px;
+
+  width:600px;
+}
+
+.quote_wrapper{
+    background:#352d89;
+    padding-top:60px;
+    position:relative;
+    text-align: center;
+    height:170px;
+}
