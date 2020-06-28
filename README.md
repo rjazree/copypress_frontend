@@ -1,3 +1,4 @@
 # copypress_frontend
-http://www.raiyantazree.com/copypress/
+
+https://copypress.netlify.app/
 ![](https://github.com/rjazree/copypress_frontend/blob/master/image.png)
